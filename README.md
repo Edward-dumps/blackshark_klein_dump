@@ -1,0 +1,14 @@
+# qssi-user 10 KLEN2002240OS00DPX V11.0.4.0.JOYUI release-keys
+- manufacturer: blackshark
+- platform: kona
+- codename: klein
+- flavor: qssi-user
+- release: 10
+- id: KLEN2002240OS00DPX
+- incremental: V11.0.4.0.JOYUI
+- tags: release-keys
+- fingerprint: blackshark/KLE-H0/klein:10/KLEN2002240OS00DPX/buildfarm02240453:user/release-keys
+- is_ab: true
+- brand: blackshark
+- branch: qssi-user-10-KLEN2002240OS00DPX-V11.0.4.0.JOYUI-release-keys
+- repo: blackshark_klein_dump
